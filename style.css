@@ -11,6 +11,7 @@ body {
 
 p {
     margin: 15 px;
+    text-align: justify;
 }
 
 br {
