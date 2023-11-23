@@ -10,7 +10,8 @@ body {
 }
 
 p {
-    margin: 15 px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     text-align: justify;
 }
 
